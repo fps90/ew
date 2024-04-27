@@ -193,9 +193,9 @@ async def edit_mixed(nr):
     await asyncio.sleep(0.5)
 
 keyboard = ikb([
-        [('✨ Join Updates Channel ✨', 'https://t.me/nrbots',"url")], 
+        [('✨ Join Updates Channel ✨', 'https://t.me/RRRS7',"url")], 
 
-        [('✨ Join Support Group ✨','https://t.me/NrBotsupport',"url")]
+        [('✨ Join Support Group ✨','https://t.me/rrrrc2',"url")]
                 ])
 
 async def add(msg, src, dest, count: int, type):
